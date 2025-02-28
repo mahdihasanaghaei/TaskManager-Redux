@@ -1,9 +1,9 @@
-# Dynamic-Color-Picker-JS
-![Capture_2024_04_13_02_06_32_740](https://github.com/mahdihasanaghaei/Dynamic-Color-Picker-JS/assets/94457827/8c3fff90-3145-40de-86f6-19de706c5b2c)
-- [Demo Project](https://mahdihasanaghaei.github.io/Dynamic-Color-Picker-JS/)
+# TaskManager-App
+![Image](https://github.com/user-attachments/assets/09ed7389-c37c-41b7-a5b8-7fbaf0c0e7dc)
+- [Demo Project](https://taskmanager-redux.vercel.app/)
 - Developed by Mahdi Hasanaghaei
-- Created : 13/04/2024
-- Technologies Used : HTML5 - CSS3 - Flexbox - JS
+- Created : 02/28/2025
+- Technologies Used : Reactjs - TypeScript - TailwindCSS - MUI - Redux Toolkit - Local Storage
 - Role : Front-End
 - How to reach me : with my 
 [instagram](https://www.instagram.com/mahdihasanaghaei.web/) and 
