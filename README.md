@@ -3,7 +3,7 @@
 - [Demo Project](https://taskmanager-redux.vercel.app/)
 - Developed by Mahdi Hasanaghaei
 - Created : 02/28/2025
-- Technologies Used : Reactjs - TypeScript - TailwindCSS - MUI - Redux Toolkit - Local Storage
+- Technologies Used : Reactjs - TypeScript - TailwindCSS - MUI - Redux Toolkit - Local Storage - Formik - Yup
 - Role : Front-End
 - How to reach me : with my 
 [instagram](https://www.instagram.com/mahdihasanaghaei.web/) and 
